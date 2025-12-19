@@ -34,6 +34,7 @@ Se construyó un árbol filogenético del gen NRAMP5 a partir de 10 secuencias d
 El árbol filogenético obtenido muestra una agrupación evidente de las secuencias de NRAMP5 acorde a la relación filogenética entre las especies, lo que sugiere una alta conservación evolutiva del gen dentro del reino Plantae.
 
 - Agrupamiento por linajes evolutivos
+
 Las secuencias de plantas monocotiledóneas, representadas por *Oryza sativa* (Osj_NRAMP5) y *Zea mays* (ZmNRAMP5), forman un clado bien definido, indicando una mayor cercanía evolutiva entre estas especies y una posible conservación funcional del transportador NRAMP5 en este grupo.
 
 Por otro lado, las secuencias correspondientes a leguminosas como *Medicago truncatula* (MtNRAMP5) y *Trifolium repens* (TrNRAMP5), se agrupan en un mismo clado, lo cual es consistente con su relación taxonómica y sugiere una evolución paralela del gen dentro de este linaje.
